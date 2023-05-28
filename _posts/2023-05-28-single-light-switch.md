@@ -14,7 +14,8 @@ To hook up my things and the switch I used ESPHome, for no other reason than tha
 1. I used the following instructions to install ESPHome and add devices: [Getting Started with ESPHome and Home Assistant &#8212; ESPHome](https://esphome.io/guides/getting_started_hassio.html)
   
 2. Then I configured my button to be a binary sensor based on this documentation: [GPIO Binary Sensor &#8212; ESPHome](https://esphome.io/components/binary_sensor/gpio.html)
-  
+
+![Wiring up the button, which is an old train door button in this case]({{site.url}}/assets/images/train_switch.jpg)
 
 ```yaml
 binary_sensor:
@@ -27,7 +28,8 @@ binary_sensor:
 ```
 
 3. And configured my LED strip based on the following documentation: [NeoPixelBus Light — ESPHome](https://esphome.io/components/light/neopixelbus.html)
-  
+
+![Wiring up the LED strip controller]({{site.url}}/assets/images/led_strip_controller.jpg)  
 
 ```yaml
 light:
@@ -46,3 +48,5 @@ light:
 ![]({{site.url}}/assets/images/automation.png)
 
 Ta-da! Done.
+
+[Demo video](https://www.youtube.com/watch?v=Z4dOUPHXtsM)
