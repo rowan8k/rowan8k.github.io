@@ -1,7 +1,7 @@
 ---
 title: "3D-printer cart"
 categories:
-  - blog
+  - projects
 ---
 The general idea was to make some kind cart to house my 3D-printer so that I could easily move it to a well-ventilated area (aka my bathroom) and I don't have to breathe plastic :D
 

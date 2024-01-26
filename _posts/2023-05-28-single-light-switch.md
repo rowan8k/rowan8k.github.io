@@ -1,7 +1,7 @@
 ---
 title: "Single light switch"
 categories:
-  - blog
+  - projects
 ---
 # Toggling all lights at home with a single switch using Home Assistant, ESPHome, and ESP8266s
 
