@@ -59,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Rowan van der Kaaden"
+  name   : "rowan8k"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ":)"
+  bio    : "Maker/hacker"
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
